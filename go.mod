@@ -8,8 +8,13 @@ require (
 	github.com/TomOnTime/utfutil v0.0.0-20180511104225-09c41003ee1d
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6 // indirect
 	github.com/alicebob/miniredis v2.5.0+incompatible
+<<<<<<< HEAD
 	github.com/argoproj/gitops-engine v0.1.3-0.20200925215903-d25b8fd69f0d
 	github.com/argoproj/pkg v0.0.0-20200624215116-23e74cb168fe
+=======
+	github.com/argoproj/gitops-engine v0.1.3-0.20201013235340-a1dc4c598b93
+	github.com/argoproj/pkg v0.2.0
+>>>>>>> 3ae1d13d... refactor: update gitops engine version (issue #1816) (#4552)
 	github.com/casbin/casbin v1.9.1
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1 // indirect
 	github.com/coreos/go-oidc v2.1.0+incompatible
